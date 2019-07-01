@@ -24,3 +24,14 @@
 -->Run the Command:<b>$ drush en module_name</b>
 
 -->Example if module is 'artcle' then run: $ drush en article
+
+
+# --I'd love it if you could Contribute to my Modules:
+
+--><b>Fork</b> my Repository: https://github.com/fahad-israr/contributed-drupal-module
+
+-->Work with your Repo and commit to your Repository.
+
+-->Create a Pull Request.
+
+-->We’ll test your changes and Merge it.
